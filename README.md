@@ -63,14 +63,14 @@ My background combines software engineering, enterprise systems, industrial appl
 - Backend development using Node.js, Sequelize, JWT and MVC architecture
 - Academic research involving IEC 61499, OPC UA, PI/PID control and industrial interoperability
 
-## GitHub Stats
+<!--## GitHub Stats
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDMLopes&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDMLopes&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDMLopes&layout=compact)-->
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Marcondes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dinarte-marcondes-lopes-5b19b3178/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeDMLopes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeDMLopes)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeDMLopes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeDMLopes)-->
