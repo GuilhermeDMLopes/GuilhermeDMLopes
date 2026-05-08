@@ -4,7 +4,7 @@ Software Engineer with experience in backend and fullstack development, systems 
 
 I hold a Bachelor's degree in Computer Engineering and I am currently pursuing a Master's degree in Computer Science and Technology. For more than two years, I have worked on a U.S.-based MES migration project, collaborating with international teams and using English in a professional environment.
 
-My background combines software engineering, enterprise systems, industrial applications, data integration, and automation-related technologies.
+My background combines software engineering, enterprise systems, industrial applications, data integration, and automation technologies.
 
 ## Main Areas of Experience
 
@@ -13,8 +13,8 @@ My background combines software engineering, enterprise systems, industrial appl
 - Industrial automation and systems integration
 - Industrial IoT and real-time data collection
 - AI-powered tools for code optimization and OPC analysis
-- OPC/OPC UA, MQTT and industrial communication
 - Database development and performance analysis
+- Industrial communication protocols and automation architectures
 
 ## Core Technologies
 
@@ -32,21 +32,28 @@ My background combines software engineering, enterprise systems, industrial appl
 ### Databases
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Industrial Systems, DevOps and Tools
+### DevOps, Cloud and Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![OPC UA](https://img.shields.io/badge/OPC%20UA-005B9A?style=for-the-badge&logoColor=white)
-![MES](https://img.shields.io/badge/MES-333333?style=for-the-badge&logoColor=white)
-![PowerBuilder](https://img.shields.io/badge/PowerBuilder-8A2BE2?style=for-the-badge&logoColor=white)
-![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Industrial and Enterprise Systems
+
+- **MES:** migration, support, analysis and improvement of manufacturing execution systems
+- **OPC / OPC UA:** industrial communication, variable analysis and automation integration
+- **PowerBuilder:** legacy enterprise systems and MES-related applications
+- **Oracle APEX:** enterprise applications and internal tools
+- **MQTT:** IoT communication and real-time data collection
+- **Toradex:** embedded Linux boards for industrial data acquisition
+- **IEC 61499 / 4diac:** academic research involving distributed automation and interoperability
 
 ## Featured Background
 
@@ -58,9 +65,9 @@ My background combines software engineering, enterprise systems, industrial appl
 
 ## GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDMLopes&show_icons=true&theme=default&hide_border=true)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDMLopes&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDMLopes&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDMLopes&layout=compact)
 
 ## Contact
 
