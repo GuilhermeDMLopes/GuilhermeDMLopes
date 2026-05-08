@@ -42,9 +42,9 @@ My background combines software engineering, enterprise systems, industrial appl
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![OPC UA](https://img.shields.io/badge/OPC%20UA-005B9A?style=for-the-badge)
-![MES](https://img.shields.io/badge/MES-333333?style=for-the-badge)
-![PowerBuilder](https://img.shields.io/badge/PowerBuilder-8A2BE2?style=for-the-badge)
+![OPC UA](https://img.shields.io/badge/OPC%20UA-005B9A?style=for-the-badge&logoColor=white)
+![MES](https://img.shields.io/badge/MES-333333?style=for-the-badge&logoColor=white)
+![PowerBuilder](https://img.shields.io/badge/PowerBuilder-8A2BE2?style=for-the-badge&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -58,12 +58,12 @@ My background combines software engineering, enterprise systems, industrial appl
 
 ## GitHub Stats
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDMLopes&show_icons=true&theme=default)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDMLopes&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDMLopes&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDMLopes&layout=compact&theme=default&hide_border=true)
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Marcondes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dinarte-marcondes-lopes-5b19b3178/)
 
-GitHub: [github.com/GuilhermeDMLopes](https://github.com/GuilhermeDMLopes)
+[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeDMLopes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeDMLopes)
